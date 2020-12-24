@@ -1,0 +1,2 @@
+C:\Users\tront\source\repos\lab6\x64\Debug\lab6.exe
+C:\Users\tront\source\repos\lab6\x64\Debug\lab6.pdb

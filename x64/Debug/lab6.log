@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\tront\source\repos\lab6\Source.cpp(31,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\tront\source\repos\lab6\Source.cpp(48,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab6.vcxproj -> C:\Users\tront\source\repos\lab6\x64\Debug\lab6.exe
